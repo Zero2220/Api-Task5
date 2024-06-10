@@ -70,8 +70,7 @@
               "RelativeToolTip": "UniversityApi\\Migrations\\UniDatabaseModelSnapshot.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T07:55:59.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T07:55:59.059Z"
             },
             {
               "$type": "Document",
@@ -83,8 +82,7 @@
               "RelativeToolTip": "UniversityApi\\Middlewares\\SerilogMiddleware.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T07:54:39.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T07:54:39.683Z"
             },
             {
               "$type": "Document",
@@ -96,8 +94,7 @@
               "RelativeToolTip": "Services\\Exceptions\\RestException.cs",
               "ViewState": "AQIAACUAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T19:23:15.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T19:23:15.274Z"
             },
             {
               "$type": "Document",
@@ -109,8 +106,7 @@
               "RelativeToolTip": "UniversityApi\\Middlewares\\ExceptionHandler.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAAABwAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T19:21:08.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T19:21:08.437Z"
             },
             {
               "$type": "Document",
@@ -122,8 +118,7 @@
               "RelativeToolTip": "UniversityApi\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-09T19:20:38.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T19:20:38.941Z"
             },
             {
               "$type": "Document",
@@ -133,7 +128,7 @@
               "RelativeDocumentMoniker": "UniversityApi\\Program.cs",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Program.cs",
               "RelativeToolTip": "UniversityApi\\Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAnwBYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-09T19:20:35.593Z",
               "EditorCaption": ""
@@ -148,8 +143,7 @@
               "RelativeToolTip": "Services\\Exceptions\\InvalidIdEntityException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T20:14:16.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T20:14:16.406Z"
             },
             {
               "$type": "Document",
@@ -161,8 +155,7 @@
               "RelativeToolTip": "UniversityApi\\UniversityApi.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-06-09T19:20:36.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T19:20:36.66Z"
             },
             {
               "$type": "Document",
@@ -174,8 +167,7 @@
               "RelativeToolTip": "UniversityApi\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-09T20:06:27.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T20:06:27.597Z"
             },
             {
               "$type": "Document",
@@ -186,8 +178,7 @@
               "ToolTip": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\UniversityApi.csproj",
               "RelativeToolTip": "UniversityApi\\UniversityApi.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-09T20:06:23.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T20:06:23.837Z"
             },
             {
               "$type": "Document",
@@ -199,8 +190,7 @@
               "RelativeToolTip": "UniversityApi\\Controllers\\GroupsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T19:20:55.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T19:20:55.531Z"
             }
           ]
         }
